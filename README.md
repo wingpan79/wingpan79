@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wing,A programmer in  Hong Kong.
+👋 Hi, I’m wing,A programmer in  Hong Kong.
 
 <!---
 wingpan79/wingpan79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
